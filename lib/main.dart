@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
         Image.network('https://picsum.photos/id/102/200/300'),
         Image.network('https://picsum.photos/id/103/200/300'),
         Image.network('https://picsum.photos/id/104/200/300'),
-        Image.network('https://picsum.photos/id/105/200/300'),
+        //Image.network('https://picsum.photos/id/105/200/300'), di komen ajadah
         Image.network('https://picsum.photos/id/106/200/300'),
         Image.network('https://picsum.photos/id/107/200/300'),
         Image.network('https://picsum.photos/id/108/200/300'),
